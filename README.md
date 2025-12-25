@@ -1,5 +1,7 @@
-<img width="742" height="696" alt="image" src="https://github.com/user-attachments/assets/5669b366-1c2e-403f-8aed-26d4b3238fd1" /># SSCheckTool
-データのチェック時間短縮と精度を上げるためのツールです。
+# SSCheckTool
+<img width="742" height="696" alt="image" src="https://github.com/user-attachments/assets/5669b366-1c2e-403f-8aed-26d4b3238fd1" />
+
+データのチェック時間短縮と精度を上げるためのツールです。  
 
 ## インストール　と　起動
 
