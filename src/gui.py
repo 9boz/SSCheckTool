@@ -6,7 +6,8 @@ from datetime import datetime
 
 try:
     from PySide2 import QtWidgets,QtGui,QtCore
-    qaction = qaction
+    qaction = QtWidgets.QAction
+
 except:
     from PySide6 import QtWidgets,QtGui,QtCore
     qaction = QtGui.QAction
@@ -700,4 +701,5 @@ def main(withEditMode = True):
         
     mainGUI.show()
     mainGUI.move(300,50)
+
 
